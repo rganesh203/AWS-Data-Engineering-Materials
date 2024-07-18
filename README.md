@@ -7,8 +7,7 @@
       There is a greater need than ever for qualified experts who can manage the intricacies of AWS to plan, create, and manage scalable and effective data infrastructures.
       This guide seeks to put you on the correct path by providing you with the information and abilities required to succeed in this field.
 
-Step 1: Mastering Core Skills and Understanding AWS Basics
-      Understanding the Role of an AWS Data Engineer
+Step 1: Mastering Core Skills and Understanding AWS Basics Understanding the Role of an AWS Data Engineer
       As an AWS Data Engineer, you are tasked with designing, building, and maintaining scalable and efficient data infrastructures using Amazon Web Services. This role requires a deep understanding of both the 
       technical and strategic aspects of data management in the cloud environment.
       
@@ -128,8 +127,7 @@ Understand the Exam Structure: The DEA-C01 certification exam consists of multip
       Continuous Feedback and Updates: Choose resources that are regularly updated based on the latest exam feedback and trends. This ensures that you are studying the most relevant and current material.
       By following these preparation tips and utilizing the right study resources, you can enhance your chances of achieving the AWS Certified Data Engineer Associate certification and advancing your career in AWS data engineering.
 
-#Hands-On Labs For AWS Data Engineer
-
+# Hands-On Labs For AWS Data Engineer
 
 1.1 AWS Basic Labs
 Lab 1:  Create an AWS Free Trial Account
