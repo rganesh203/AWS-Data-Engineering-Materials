@@ -129,41 +129,43 @@ Understand the Exam Structure: The DEA-C01 certification exam consists of multip
       By following these preparation tips and utilizing the right study resources, you can enhance your chances of achieving the AWS Certified Data Engineer Associate certification and advancing your career in AWS data engineering.
 
 #Hands-On Labs For AWS Data Engineer
+
+
 1.1 AWS Basic Labs
 Lab 1:  Create an AWS Free Trial Account
-Create a free trial account to get started with AWS. This interactive lab walks you through the first steps of setting up an AWS account, which provides you with a wealth of cloud services to work with your experiments and development.
-To get a hands-on feel for all its services, new customers can sign up for a free 12-month trial membership with Amazon Web Services (AWS). We can utilize many services from Amazon, albeit with certain restrictions, to gain practical experience and expand our understanding of AWS cloud services in addition to ordinary business use.
-All of the services available with the AWS Free Tier account have a usage cap on how much we may use without incurring fees. We’ll examine how to sign up for an AWS FREE Tier Account in this section.
-Check out our step-by-step blog post on How to build an Amazon Free Tier Account to learn how to build a free AWS account.
+      Create a free trial account to get started with AWS. This interactive lab walks you through the first steps of setting up an AWS account, which provides you with a wealth of cloud services to work with your experiments and development.
+      To get a hands-on feel for all its services, new customers can sign up for a free 12-month trial membership with Amazon Web Services (AWS). We can utilize many services from Amazon, albeit with certain restrictions, to gain practical experience and expand our understanding of AWS cloud services in addition to ordinary business use.
+      All of the services available with the AWS Free Tier account have a usage cap on how much we may use without incurring fees. We’ll examine how to sign up for an AWS FREE Tier Account in this section.
+      Check out our step-by-step blog post on How to build an Amazon Free Tier Account to learn how to build a free AWS account.
+![image](https://github.com/user-attachments/assets/5406ab1b-cd72-4d1f-a2da-79329303023a)
 
-AWS free tier
+      AWS free tier
 Lab 2: Set Service Limits and Billing Alarms with CloudWatch
-Explore the monitoring service offered by AWS, CloudWatch. To successfully control costs, this lab focuses on setting up billing alarms and monitoring service restrictions to make sure your applications function properly within predetermined parameters.
-Amazon CloudWatch can be used to enable AWS billing notifications. Your whole AWS account activity is tracked by the CloudWatch service from Amazon Web Services. AWS account usage activities can be detected via CloudWatch, which also offers an infrastructure for monitoring apps, logs, metrics collection, and other service metadata in addition to billing notifications.
-You can configure your alarms using a variety of metrics provided by AWS CloudWatch. For instance, you can program an alarm to sound when the CPU or memory utilization of a running instance surpasses 90% or when the invoice amount surpasses $100. With an AWS free tier account, we receive 1,000 email notifications and 10 alarms every month.
+      Explore the monitoring service offered by AWS, CloudWatch. To successfully control costs, this lab focuses on setting up billing alarms and monitoring service restrictions to make sure your applications function properly within predetermined parameters.
+      Amazon CloudWatch can be used to enable AWS billing notifications. Your whole AWS account activity is tracked by the CloudWatch service from Amazon Web Services. AWS account usage activities can be detected via CloudWatch, which also offers an infrastructure for monitoring apps, logs, metrics collection, and other service metadata in addition to billing notifications.
+      You can configure your alarms using a variety of metrics provided by AWS CloudWatch. For instance, you can program an alarm to sound when the CPU or memory utilization of a running instance surpasses 90% or when the invoice amount surpasses $100. With an AWS free tier account, we receive 1,000 email notifications and 10 alarms every month.
+![image](https://github.com/user-attachments/assets/35c07188-8028-431e-8517-5c59175791e9)
 
-AWS CloudWatch – Create Billing Alarm & Service Limits
+      AWS CloudWatch – Create Billing Alarm & Service Limits
 Lab 3: Create And Connect To Windows EC2 Machine
-We have different methods for creating and connecting to the Windows EC2 machine for Windows users and Mac users:
+      We have different methods for creating and connecting to the Windows EC2 machine for Windows users and Mac users:
+      Windows Users: Sign in to the AWS Management Console, go to the EC2 dashboard, create a new instance with a Windows AMI, configure it, and connect via Remote Desktop Connection to the instance’s public IP or DNS name.
+      Mac Users: Access the AWS Management Console, create a new Windows EC2 instance, customize the parameters, and get a remote desktop client like Microsoft Remote Desktop from the Mac App Store. Connect to the EC2 instance using the client’s public IP address or DNS name, as well as the username and password you’ve provided.
+      Launch a Windows instance to gain hands-on experience with Elastic Compute Cloud (EC2). Discover the subtleties of creating instances and establish a smooth connection to virtual computers running Windows.
 ![image](https://github.com/user-attachments/assets/69119382-bd85-4862-8410-cfb7e1e33605)
-
-Windows Users: Sign in to the AWS Management Console, go to the EC2 dashboard, create a new instance with a Windows AMI, configure it, and connect via Remote Desktop Connection to the instance’s public IP or DNS name.
-Mac Users: Access the AWS Management Console, create a new Windows EC2 instance, customize the parameters, and get a remote desktop client like Microsoft Remote Desktop from the Mac App Store. Connect to the EC2 instance using the client’s public IP address or DNS name, as well as the username and password you’ve provided.
-Launch a Windows instance to gain hands-on experience with Elastic Compute Cloud (EC2). Discover the subtleties of creating instances and establish a smooth connection to virtual computers running Windows.
-
 Create And Connect To Windows EC2 Machine
 Lab 4: Create And Connect To Linux EC2 Machine
-For Windows and Mac users:
-
-To launch and connect to a Linux EC2 instance:
-
-Sign in to the AWS Console: Access the AWS Management Console and click on the EC2 dashboard.
-Launch Instance: Select a Linux AMI, select the instance settings, and start the instance.
-Connect with SSH:
-
-Windows users should download an SSH client such as PuTTY and enter their public IP/DNS and username (“ec2-user” or “ubuntu”).
-Mac Users: To create a connection, open Terminal and run the SSH command using the public IP, DNS, and username.
-By launching a Linux instance, you can expand your knowledge of EC2. Learn about AWS’s Linux environment, from creation to effective instance connection and management.
+      For Windows and Mac users:
+      
+      To launch and connect to a Linux EC2 instance:
+      
+      Sign in to the AWS Console: Access the AWS Management Console and click on the EC2 dashboard.
+      Launch Instance: Select a Linux AMI, select the instance settings, and start the instance.
+      Connect with SSH:
+      
+      Windows users should download an SSH client such as PuTTY and enter their public IP/DNS and username (“ec2-user” or “ubuntu”).
+      Mac Users: To create a connection, open Terminal and run the SSH command using the public IP, DNS, and username.
+      By launching a Linux instance, you can expand your knowledge of EC2. Learn about AWS’s Linux environment, from creation to effective instance connection and management.
 ![image](https://github.com/user-attachments/assets/ccc02b11-2b30-4e36-9573-cbde4ab1bb1e)
 
 Create And Connect To Linux EC2 Machine
